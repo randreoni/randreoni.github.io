@@ -1,6 +1,6 @@
 # Roberto Andreoni
 
-Senior Backend engineer / DevOps • Cloud-Native • Distributed Microservices • Real-Time Messaging & Data Ingestion • Cloud & Linux Infrastructure Automation • IAM / OIDC Security • Observability & Monitoring
+Senior Backend Engineer / DevOps • Cloud-Native • Distributed Microservices • Real-Time Messaging & Data Ingestion • Cloud & Linux Infrastructure Automation • IAM / OIDC Security • Observability & Monitoring
 
 ## Links
 
