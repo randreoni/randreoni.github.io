@@ -8,6 +8,12 @@ Senior Backend Engineer / DevOps • Cloud-Native • Distributed Microservices 
 
 ---
 
+## OSS (small) contributions
+
+* 🥳 [keycloak/keycloak#34754](https://github.com/keycloak/keycloak/pull/34754) — Fix NPE when authenticating with identity cookie
+
+---
+
 ## Talks
 
 * 🎤 [Modern Digital Identity: dall'OIDC alla sicurezza degli Agenti AI](talks/modern-digital-identity-oidc-to-ai/) — [GDG Milano](https://gdg.community.dev/events/details/google-gdg-milano-presents-modern-digital-identity-dalloidc-alla-sicurezza-degli-agenti-ai/) (22 Ottobre 2026)  
