@@ -17,4 +17,4 @@ Senior Backend Engineer / DevOps • Cloud-Native • Distributed Microservices 
 ## Talks
 
 * 🎤 [Modern Digital Identity: dall'OIDC alla sicurezza degli Agenti AI](talks/modern-digital-identity-oidc-to-ai/) — [GDG Milano](https://gdg.community.dev/events/details/google-gdg-milano-presents-modern-digital-identity-dalloidc-alla-sicurezza-degli-agenti-ai/) (22 Ottobre 2026)  
-  Le fondamenta dell'Identity (OIDC, JWT, JWKS) • Sicurezza del Front-End (PKCE & BFF) • Superamento dei cookie di terze parti (FedCM) • Orchestrazione Enterprise (Cloud Identity Platform) • Personalizzazione dei flussi (Blocking Functions & CEL) • Eliminazione delle chiavi statiche (Workload Identity Federation) • Identity per l'AI (Agenti autonomi)
+  Identity Fundamentals (OIDC, JWT, JWKS) • Frontend Security (PKCE & BFF) • Moving Beyond Third-Party Cookies (FedCM) • Enterprise Orchestration (Cloud Identity Platform) • Custom Auth Flows (Blocking Functions & CEL) • Eliminating Static Keys (Workload Identity Federation) • Identity for AI (Autonomous Agents)
